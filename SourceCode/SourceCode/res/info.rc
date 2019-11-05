@@ -1,0 +1,25 @@
+id ICON "icon.ico"
+
+1 VERSIONINFO
+FILEVERSION     1
+PRODUCTVERSION  1,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080704E4"
+    BEGIN
+	VALUE "ProductName", "Textfile Encryptor"
+      	VALUE "FileDescription", "En- and decrypts textfiles."
+	VALUE "InternalName", "Textfile Encryptor.exe"
+	VALUE "OriginalFilename", "Textfile Encryptor.exe"
+	VALUE "CompanyName", "Jan Sch\xFCssler"
+	VALUE "LegalCopyright", "\xA9 Jan Sch\xFCssler. All rights reserved."
+	VALUE "FileVersion", "1.0"
+	VALUE "ProductVersion", "1.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x0807, 1252
+  END
+END
