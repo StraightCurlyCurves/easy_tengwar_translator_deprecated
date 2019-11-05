@@ -1,1 +1,0 @@
-windres info.rc -O coff -o info.res
